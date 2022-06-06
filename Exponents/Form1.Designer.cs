@@ -58,7 +58,6 @@
             this.xOutputLabel.Name = "xOutputLabel";
             this.xOutputLabel.Size = new System.Drawing.Size(0, 13);
             this.xOutputLabel.TabIndex = 4;
-            this.xOutputLabel.Visible = false;
             // 
             // xGoButton
             // 
